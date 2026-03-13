@@ -1,0 +1,1 @@
+Uma atualizacao de seguranca, que adiciona novos processos de Autentificacao de Usurio e Senha
